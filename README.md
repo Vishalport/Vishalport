@@ -9,5 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![]([https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png](https://lh6.googleusercontent.com/-tEyH5cpJohU/AAAAAAAAAAI/AAAAAAAAAAA/oFKMM55fzi4/s39-p-k-no-ns-nd/photo.jpg))
+
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
