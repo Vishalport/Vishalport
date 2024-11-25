@@ -1,9 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Vshal Kumar</h1>
-<h3 align="center">MERN Stack | DevOps | Docker | Terraform</h3>
-
-
-
 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/vishalport/)
 
 ⚡ Fun fact **I thank I an funny**
