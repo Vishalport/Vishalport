@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Vishal</h1>
-📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/vishalport/)
+📄 Know about my experiences https://www.linkedin.com/in/vishalport/
 
 🤪 Fun fact **I thank I an funny**
 
