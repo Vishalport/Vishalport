@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Vshal Kumar</h1>
+<h1 align="center">Hi 👋, I'm Vishal</h1>
 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/vishalport/)
 
-⚡ Fun fact **I thank I an funny**
+🤪 Fun fact **I thank I an funny**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
